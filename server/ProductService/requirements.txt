@@ -1,0 +1,5 @@
+requests
+pytest-mock
+aws-lambda-powertools[Tracer,Logger,Metrics]
+jsonpickle
+aws_requests_auth
